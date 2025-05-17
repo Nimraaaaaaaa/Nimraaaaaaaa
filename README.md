@@ -5,7 +5,7 @@
  <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif"> </a>
 </h1>
  
-<h3> 👋 Hi, I’m Nimra abdulhaq. <img src="./butterfly.gif" width=20%><img src="./dog.gif" width=20%> </h3> 
+<h3> 👋 Hi, I’m Nimra Abdulhaq. <img src="./butterfly.gif" width=20%><img src="./dog.gif" width=20%> </h3> 
 <h3> 👀 I’m interested in NLP. </h3> 
 <h3> 🌱 I’m currently learning & implementing NLP. </h3> 
 <h3> 💞️ I’m looking to collaborate on AI projects. </h3> 
@@ -13,8 +13,8 @@
 <br> <br>
 📌
 
-<a href="https://www.linkedin.com/in/Nimra Abdulhaq/">
- <img align="center" alt="Memona-Hafeez's LinkedIN" src="https://img.icons8.com/fluency/48/null/linkedin.png"/>
+<a href="https://www.linkedin.com/in/nimra-abdulhaq-370838269/">
+ <img align="center" alt="Nimraaaaaaaa's LinkedIN" src="https://img.icons8.com/fluency/48/null/linkedin.png"/>
 </a>
 
 <a href="https://www.github.com/Nimraaaaaaaa/">
@@ -38,7 +38,7 @@
 <p>
  <a href="https://github.com/Nimraaaaaaaa">
 <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nimraaaaaaaa&show_icons=true&theme=dark"> </a> 
-</p
+</p>
 
 <p>
  <a href="https://github.com/Nimraaaaaaaa">
@@ -52,7 +52,7 @@
 
 <p align="center">
  <a href="https://github.com/Nimraaaaaaaa">
-<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Nimraaaaaaaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="Memona-Hafeez" > </a>
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Nimraaaaaaaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="Nimraaaaaaaa" > </a>
 </p>
 
 <p align="center">
