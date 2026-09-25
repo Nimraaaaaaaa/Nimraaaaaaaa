@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Nimraaaaaaaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nimra+Abdulhaq+%F0%9F%91%8B;AI+Engineer+%E2%80%94+Computer+Vision+%26+Medical+Imaging;Building+deep+learning+systems+end-to-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2E9EF7&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Nimra+Abdulhaq+%F0%9F%91%8B;AI+Engineer+%7C+Computer+Vision+%26+Medical+Imaging;Building+deep+learning+systems+end-to-end" alt="Typing SVG" />
   </a>
 </p>
 
