@@ -31,7 +31,7 @@ I'm an AI Engineer who builds and ships deep learning systems end-to-end — fro
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Nimraaaaaaaa&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nimraaaaaaaa&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimraaaaaaaa&hide_border=true" height="165" alt="streak stats" />
 
 </div>
