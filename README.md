@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Nimra Abdulhaq 👋</h1>
-<h3 align="center">AI Engineer — Computer Vision, Medical Imaging & Applied Deep Learning</h3>
+<p align="center">
+  <a href="https://github.com/Nimraaaaaaaa">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nimra+Abdulhaq+%F0%9F%91%8B;AI+Engineer+%E2%80%94+Computer+Vision+%26+Medical+Imaging;Building+deep+learning+systems+end-to-end" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nimra-abdulhaq-370838269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -8,19 +11,6 @@
 </p>
 
 I'm an AI Engineer who builds and ships deep learning systems end-to-end — from model architecture to deployment. My focus is **medical image analysis and computer vision**, with a broader track record across generative AI, agentic systems, and time-series forecasting.
-
----
-
-### 🚀 Featured Work
-
-- 🩺 [**pannuke-nuclei-segmentation-unet**](https://github.com/Nimraaaaaaaa/pannuke-nuclei-segmentation-unet) — U-Net segmentation model on the PanNuke histopathology dataset, 0.71 validation Dice score
-- 🧠 [**brain-tumor-clss-vgg16-cnn-base**](https://github.com/Nimraaaaaaaa/brain-tumor-clss-vgg16-cnn-base) — CNN/VGG16 classifier for brain tumor detection from MRI scans
-- 🎙️ [**Multi-Agent-AI-Voice-Assistant-with-langgraph**](https://github.com/Nimraaaaaaaa/Multi-Agent-AI-Voice-Assistant-with-langgraph) — Multi-agent voice assistant orchestrated with LangGraph
-- 🖼️ [**yolo-flux-furniture-removal**](https://github.com/Nimraaaaaaaa/yolo-flux-furniture-removal) — YOLOv8 detection + FLUX.1 diffusion inpainting for selective object removal
-- 🔬 [**Bacteria-identification-with-gemini3.6Flash**](https://github.com/Nimraaaaaaaa/Bacteria-identification-with-gemini3.6Flash) — Bacteria species identification using Gemini's multimodal reasoning
-- 💬 [**Fine-tuned-Linkedin-comment-generator-Chatbot**](https://github.com/Nimraaaaaaaa/Fine-tuned-Linkedin-comment-generator-Chatbot) — GPT-4o fine-tuned chatbot with RAG retrieval, deployed on Render
-
-More projects — time-series forecasting, agentic RAG, security/ML — pinned and listed below on my profile.
 
 ---
 
@@ -47,3 +37,7 @@ More projects — time-series forecasting, agentic RAG, security/ML — pinned a
 </div>
 
 <p align="center"><i>Open to AI/ML engineering roles and research collaborations in medical imaging and applied deep learning.</i></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nimraaaaaaaa/Nimraaaaaaaa/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%" />
+</p>
