@@ -1,15 +1,28 @@
-<h1 align="center">Nimra Abdulhaq</h1>
-<p align="center"><b>AI Engineer</b></p>
+<h1 align="center">Hi, I'm Nimra Abdulhaq 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nimra-abdulhaq-370838269">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:nimraabdulhaqq@gmail.com">Email</a>
+  <b>AI Engineer</b> &nbsp;|&nbsp; LLMs · RAG · Multi-Agent Systems
+</p>
+
+<p align="center">
+  <i>Building intelligent AI solutions that solve real-world problems.</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nimra-abdulhaq-370838269">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:nimraabdulhaqq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-Hi, I'm Nimra Abdulhaq, an AI Engineer with 2 years of freelancing experience, building AI solutions for clients across the following areas:
+### 👩‍💻 About Me
+
+I'm an AI Engineer with **2 years of freelancing experience**, delivering AI solutions to clients across the following areas:
 
 - Machine Learning
 - Deep Learning
@@ -23,7 +36,7 @@ Most of my work is available in my repositories, so feel free to browse through 
 
 ---
 
-### Get in touch
+### 📫 Get in Touch
 
 The best way to reach me is by email: **nimraabdulhaqq@gmail.com**
 
