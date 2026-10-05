@@ -16,7 +16,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 I'm an AI Engineer with **2 years of freelancing experience**, delivering AI solutions to clients across the following areas:
 
