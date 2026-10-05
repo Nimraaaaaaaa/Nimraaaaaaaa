@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Nimra Abdulhaq 👋</h1>
+<h1 align="center">Hi, I'm Nimra Abdulhaq </h1>
 
-<p align="center">
-  <b>AI Engineer</b> &nbsp;|&nbsp; LLMs · RAG · Multi-Agent Systems
+
 </p>
 
 <p align="center">
