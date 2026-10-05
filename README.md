@@ -1,7 +1,4 @@
-<h1 align="center">Hi, I'm Nimra Abdulhaq </h1>
-
-
-</p>
+<h1 align="center">Hi, I'm Nimra Abdulhaq 👋</h1>
 
 <p align="center">
   <i>Building intelligent AI solutions that solve real-world problems.</i>
@@ -9,11 +6,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nimra-abdulhaq-370838269">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:nimraabdulhaqq@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
